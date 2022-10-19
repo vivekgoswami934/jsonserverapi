@@ -366,29 +366,7 @@
         }
       ]
     },
-    {
-      "id": "19",
-      "name": "What You See Ain't Always What You Get (Deluxe Edition)",
-      "artist": "Luke Combs",
-      "genre": "Country",
-      "year": 2017,
-      "no_of_songs": "4",
-      "img": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/13/4a/11/134a11e7-35f1-a9e4-3f8c-a70443ca2e0a/886448691341.jpg/170x170bb.png",
-      "songs": [
-        {
-          "name": "abc"
-        },
-        {
-          "name": "def"
-        },
-        {
-          "name": "def"
-        },
-        {
-          "name": "def"
-        }
-      ]
-    },
+    
     {
       "id": "20",
       "name": "A Drummer Boy Christmas",
